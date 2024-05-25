@@ -9,6 +9,11 @@ This application checks your Instagram account for users you are following but w
 - Identify users who do not follow you back
 - Display unfollowers with a link to their Instagram profile
 
+## Security and Privacy
+
+- No shady stuff: This application does not store your username or password anywhere.
+- Your credentials are used only to log in to Instagram and are not saved or shared.
+
 ## Requirements
 
 - Python 3.6 or higher
